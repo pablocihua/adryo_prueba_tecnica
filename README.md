@@ -3,7 +3,7 @@
 A continuación se muestran los archivos de ejecucion tanto para la descarga del proyecto 'prueba_tecnica', como para la instalación de librería necesarias para el funcionamiento del mismo.
 
 ```
-$ git clone https://example.com
+$ git clone https://github.com/pablocihua/adryo_prueba_tecnica.git
 $ cd ../path/to/the/file
 $ npm install
 $ npm run dev
